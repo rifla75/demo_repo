@@ -9,3 +9,4 @@ sudo dnf install vscode
     source .venv/bin/activate
     pip install -r requirements.txt
     pip3 install -r requirements.txt
+ff
