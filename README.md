@@ -9,6 +9,7 @@ sudo dnf install vscode
     source .venv/bin/activate
     pip install -r requirements.txt
     pip3 install -r requirements.txt
+    sudo -u postgres psql
 
 
 python3 --version
